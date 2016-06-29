@@ -1,1 +1,11 @@
 Application/Runtime
+www
+p
+p-commom
+node_modules
+example
+components
+.idea
+lib-home/framework
+lib-vendor
+package.json
